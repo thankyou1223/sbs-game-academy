@@ -1,110 +1,116 @@
-﻿namespace program
+﻿using System.ComponentModel;
+
+namespace program
 {
     internal class Program
-    {
-       
+    {    
         static void Main(string[] args)
         {
-            #region 상수
-            // 프로그램이 실행되는 동안 더 이상 변경할 수 없는 
-            // 메모리 공간입니다.
+            #region 오버플로우
+            // 특정한 자료형이 표현할 숴 있는 최댓값의 범위를
+            // 넘어서 연산을 수행하는 과정입니다.
 
-            // const float pi = 3.141592f;
 
-            // 상수는 메모리 공상을 생성하는 동시에 초기화해야 하며,
-            // 한 번 저장된 값은 더 이상 변경할 수 없습니다.
+            //short mineral = 32767;
 
-            // pi = 6.5f;
+            //Console.WriteLine("mineral 변수의 값 : " + mineral);
 
-            // 상수의 경우 메모리 공간을 가지고 있지 않은 상수를 리터럴
-            // 상수라고 하며, 메모리 공간을 가지고 있는 상수를 심볼릭
-            // 상수라고 합니다.
 
+            // 오버플로우는 부호 없는 자료형에서도 똑같이 발생합니다.
 
             #endregion
 
-            #region 산술 연산자
+            #region 언더플로우
+            // 특정한 자료형이 표현할 수 있는 최소값의 범위를
+            // 넘어서 연산을 수행하는 과정입니다.
 
-            // 1. int result1 = 변수 + 변수
-            // 2. int result2 = 리터럴 상수 - 변수
-            // 3. int result3 = 리터럴 상수 * 심볼릭 상수
-            // 4. int result4 = 심볼릭 상수 / 변수
-            // 5. int result5 = 리터럴 상수 % 리터럴 상수
+            // short gas = -32769;
+            // 
+            // Console.WriteLine("gas")
 
-            int x = 10;
-            const int y = 10;
-
-            int result1 = x + x;
-            int result2 = 15 - x;
-            int result3 = 5 * y;
-            int result4 = y / x;
-            int result5 = 10 % 10;
-
-            Console.WriteLine(result1);
-            Console.WriteLine(result2);
-            Console.WriteLine(result3);
-            Console.WriteLine(result4);
-            Console.WriteLine(result5);
+            // 언더플로우는 부호 없는 자료형에서도 똑같이 발생하며, 
+            // 최소값보다 더 작은 값으로 저장하게 되면 최댓값부터
+            // 다시 최솟값을 넘어간 만큼 다시 계산합니다.
 
             #endregion
 
-            #region 비트
-            // 데이터를 나타내는 최소의 단위이며, 0 또는 1의 조합으로
-            // 논리 계산을 수행하는 단위입니다.
+            #region 부호 없는 자료형
 
-            #region 10 진수를 2 진수로 변환하는 과정
-            // 10진수 1이 될 때까지 계속 2로 나누어 준 다음
-            // 나눈 위치의 나머지 값을 아래에서 위로 순서대로 정렬합니다.
+            // 최댓값 : 65535
+            // 최솟값 : 0
 
-            int count = 19; //[0][0][0][1][0][0][1][1]
+            // 
+                ushort money = 65535;
 
-
-            #endregion
-
-            #region 진수를 10 진수로 변환하는 과정
-            // 1 byte에 2 진수로 저장된 값을 2의 제곱으로 나타내며,
-            //각각의 비트에 1이 있다면 1과 2의 제곱의 위치를 계산하며
-            //각각의 비트를 모두 더하여 10진수로 나타냅니다.
-
-            int time = 10; //[0][0][0][0][1][0][1][0]
-            #endregion
-
-            #region 비트 연산자
-            // 비트 단위로 논리 연산을 수행하기 위해 사용하는 연사자입니다.
+            Console.WriteLine(money);
 
             #endregion
-            #region OR 연산자
-            // 두 개의 피연산자 중에서 하나라도 1이 있다면
-            // 1을 반환하는 연산자입닌다.
 
-            int x3 = 13; //
-            int y3 = 18;// [0][0][0][1][0][0][1][0]
+            #region 실수를 저장하는 방법
+
+            #region 실수 형태의 10 진수를 2 진수로 변환하는 과정
+            // 10진수 실수 부분을 1.0이 될 때까지 계속 2로 곱한다음
+            // 곱한 결과의 정수 부분을 위에서 아래로 순서대로 정렬합니다.
+
+            //float pi = 3.1111111f;
+
+            //Console.WriteLine(pi);
 
 
-
+            // float 자료형은 소수점 이하 6자리까지만 정확도를 표기하며, 
+            // double 자료형의 경우 소수점 이하 15자리까지만 정확도를 표기합니다.
+            #endregion
 
 
 
             #endregion
 
+            #region 시프트 연산자
+            // 비트 값을 주어진 수만큼 특정한 반향으로
+            // 이동시키는 연산자입니다.
+
+           // int x; // [0][0][0][0][1][0][0][0]
+           // int y = 9; // [0][0][0][0][1][0][0][1]
+           //
+           //
+           // Console.WriteLine("x변수를 왼쪽으로 2번 이동한 결과 : " + (x << 2));
+           //
+           // Console.WriteLine("y 변수를 오른쪽으로 2번 이동한 결과 : " + (y >> 2));
+
             #endregion
 
-            #region NOT 연산자
-            // 하나의 피연산자 비트를 반전시키는 연산자입닌다.
+            #region 자료형 변환
+            // 서로 다른 자료형을 가지고 있는 변수끼리 연산이 이루어
+            // 질 때 기존에 지정했던 자료형을 다른 자료형으로 변환하는
+            // 과정입니다.
 
-            int power = 20; // [0][0][0][1][0][1][0][0]
-                            // ------------------------
-                            // [1][1][1][0][1][0][1][1]
+            #region 암묵적 형 변환
+            // 서로 다른 자료형으로 연산이 이루어질 때 자료형의
+            // 크기가 큰 자료형으로 변환되는 과정입닌다.
 
-            Console.WriteLine("power 변수를 NOT 연산한 결과 : " + (~power));
 
-            // 첫 번째 비트는 부호를 나타내며, 첫 번째 비트에
-            // 1이 있다면 값을 음수가 됩니다.
+
+            #endregion
+            #region 명시적 형 변환
+            // 연산이 이루어지기 전에 사용자가 직접 자료형을 
+            // 변환하는 과정입니다
+
+           // int attack = 10;
+           // int defense = 3;
+           //
+           // float damage = (float)attack / defense;
+           //
+           // Console.WriteLine("damage 변수의 값 : " + damage);
+
+            // 정수형 변수끼리 연산을 수행하게 되면 정수의 결과
+            // 값만 가질 수 있습니다.
+
+
+
             #endregion
 
 
-
-
+            #endregion
         }
     }
 }
