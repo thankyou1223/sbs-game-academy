@@ -1,14 +1,10 @@
-﻿using System.ComponentModel;
-
-namespace program
+﻿namespace C_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            
-
+            Console.WriteLine("Hello, World!");
         }
     }
 }
-
