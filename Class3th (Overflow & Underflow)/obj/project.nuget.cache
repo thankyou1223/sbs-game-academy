@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "v6OZG7yW/PcP9siS/l2l7zNoA8n77gAA49WYFJ19vD68pg72xLdJa5jX/6zVOuzFXXbSMxoTqArwcmitV/HPRg==",
+  "dgSpecHash": "aj3hewGGZ/k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\sbs-game-academy\\Class3th (Overflow & Underflow)\\Class3th (Overflow & Underflow).csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\Class3th (Overflow & Underflow)\\Class3th (Overflow & Underflow).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thank\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\thank\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\thank\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\thank\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

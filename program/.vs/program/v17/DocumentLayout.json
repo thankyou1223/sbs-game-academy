@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thank\\OneDrive\\\uBB38\uC11C\\GitHub\\sbs-game-academy\\program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD6987C-4D0E-405B-8278-790A42FF66BD}|..\\chass7th(Arrangement)\\chass7th(Arrangement).csproj|c:\\users\\thank\\onedrive\\\uBB38\uC11C\\github\\sbs-game-academy\\chass7th(arrangement)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBB38\uC11C\\GitHub\\sbs-game-academy\\chass7th(Arrangement)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\chass7th(Arrangement)\\Program.cs",
+              "ToolTip": "C:\\Users\\thank\\OneDrive\\\uBB38\uC11C\\GitHub\\sbs-game-academy\\chass7th(Arrangement)\\Program.cs",
+              "RelativeToolTip": "..\\chass7th(Arrangement)\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:07:21.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

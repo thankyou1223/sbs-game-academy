@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "S1eCqrwUHje3WHt8HzsEiNSeIEOqgz0JrThKX998RXJqiWgFkMJ6jRbkZ04WlvDNssR4o0KfrUvizU7Ax1auQw==",
+  "dgSpecHash": "ul5qVTEOtUI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\sbs-game-academy\\Class1th (Variable)\\Class1th (Variable).csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\Class1th (Variable)\\Class1th (Variable).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thank\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\thank\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\thank\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\thank\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
