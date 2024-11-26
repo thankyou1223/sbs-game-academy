@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\chass7th(Arrangement)\\chass7th(Arrangement).csproj": {}
+    "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\chass7th(Arrangement)\\chass7th(Arrangement).csproj": {}
   },
   "projects": {
-    "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\chass7th(Arrangement)\\chass7th(Arrangement).csproj": {
+    "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\chass7th(Arrangement)\\chass7th(Arrangement).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\chass7th(Arrangement)\\chass7th(Arrangement).csproj",
+        "projectUniqueName": "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\chass7th(Arrangement)\\chass7th(Arrangement).csproj",
         "projectName": "chass7th(Arrangement)",
-        "projectPath": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\chass7th(Arrangement)\\chass7th(Arrangement).csproj",
+        "projectPath": "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\chass7th(Arrangement)\\chass7th(Arrangement).csproj",
         "packagesPath": "C:\\Users\\thank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\chass7th(Arrangement)\\obj\\",
+        "outputPath": "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\chass7th(Arrangement)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

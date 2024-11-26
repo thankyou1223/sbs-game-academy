@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zoT2CA6Edgw=",
+  "dgSpecHash": "Thdos5pB94Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\C#\\C#.csproj",
+  "projectFilePath": "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\C#\\C#.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thank\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\thank\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",

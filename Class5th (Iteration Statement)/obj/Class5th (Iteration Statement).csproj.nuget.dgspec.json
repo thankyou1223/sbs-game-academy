@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\Class5th (Iteration Statement)\\Class5th (Iteration Statement).csproj": {}
+    "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\Class5th (Iteration Statement)\\Class5th (Iteration Statement).csproj": {}
   },
   "projects": {
-    "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\Class5th (Iteration Statement)\\Class5th (Iteration Statement).csproj": {
+    "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\Class5th (Iteration Statement)\\Class5th (Iteration Statement).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\Class5th (Iteration Statement)\\Class5th (Iteration Statement).csproj",
+        "projectUniqueName": "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\Class5th (Iteration Statement)\\Class5th (Iteration Statement).csproj",
         "projectName": "Class5th (Iteration Statement)",
-        "projectPath": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\Class5th (Iteration Statement)\\Class5th (Iteration Statement).csproj",
+        "projectPath": "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\Class5th (Iteration Statement)\\Class5th (Iteration Statement).csproj",
         "packagesPath": "C:\\Users\\thank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thank\\OneDrive\\문서\\GitHub\\sbs-game-academy\\Class5th (Iteration Statement)\\obj\\",
+        "outputPath": "C:\\Users\\thank\\OneDrive\\바탕 화면\\sbs-game-academy\\Class5th (Iteration Statement)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

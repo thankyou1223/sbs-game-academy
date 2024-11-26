@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chass7th(Arrangement)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b692f417e577cb2ae81d79d93dd84e322d3a185d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a4f74f3b9692cb19d0bce2d582e860229e8ee48")]
 [assembly: System.Reflection.AssemblyProductAttribute("chass7th(Arrangement)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chass7th(Arrangement)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

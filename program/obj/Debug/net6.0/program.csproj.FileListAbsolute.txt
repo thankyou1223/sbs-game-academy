@@ -27,3 +27,11 @@ C:\Users\Administrator\Desktop\sbs-game-academy\program\obj\Debug\net6.0\refint\
 C:\Users\Administrator\Desktop\sbs-game-academy\program\obj\Debug\net6.0\program.pdb
 C:\Users\Administrator\Desktop\sbs-game-academy\program\obj\Debug\net6.0\program.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\sbs-game-academy\program\obj\Debug\net6.0\ref\program.dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\obj\Debug\net6.0\program.sourcelink.json
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\obj\Debug\net6.0\program.dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\obj\Debug\net6.0\refint\program.dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\obj\Debug\net6.0\program.pdb
