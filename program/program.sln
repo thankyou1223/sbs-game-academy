@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class10th (Polymorphism)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class8th(", "..\class8th(\class8th(.csproj", "{7A725616-BF34-4823-A175-AA711656A473}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class10th(추상)", "..\class10th(추상)\class10th(추상).csproj", "{6CD3299A-DC16-4356-BA2B-FFB616FC142A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class11th(Abstrad)", "..\class11th(Abstrad)\class11th(Abstrad).csproj", "{1FB3EE25-7108-4625-AD01-C6866F7594C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{7A725616-BF34-4823-A175-AA711656A473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A725616-BF34-4823-A175-AA711656A473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A725616-BF34-4823-A175-AA711656A473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD3299A-DC16-4356-BA2B-FFB616FC142A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD3299A-DC16-4356-BA2B-FFB616FC142A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD3299A-DC16-4356-BA2B-FFB616FC142A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD3299A-DC16-4356-BA2B-FFB616FC142A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB3EE25-7108-4625-AD01-C6866F7594C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB3EE25-7108-4625-AD01-C6866F7594C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB3EE25-7108-4625-AD01-C6866F7594C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB3EE25-7108-4625-AD01-C6866F7594C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
