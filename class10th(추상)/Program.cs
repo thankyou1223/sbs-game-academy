@@ -18,16 +18,19 @@ namespace class10th_추상_
             character = new Warrior();
 
             character.Skill();
+
             character.Stats();
 
             character = new Wizard();
 
             character,Skill();
+
             character.Stats();
 
             character = new Rogue();
 
             character.Skill();
+
             character.Stats();
 
             // 추상 클래스는 객체로 생성할 수 없습니다.
@@ -76,12 +79,12 @@ namespace class10th_추상_
                 if(computer > answer)
                 {
                     Console.WriteLine("Computer가 가지고 있는 값보다 작습니다.");
-                    health~~;
+                    health--;
                 }
                 else if(computer < answer)
                 {
                     Console.WriteLine("Computer가 가지고 있는 값보다 큽니다.");
-                    health~~;
+                    health--;
                 }
                 else
                 {
