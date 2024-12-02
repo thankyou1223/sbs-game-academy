@@ -1,0 +1,5 @@
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).AssemblyInfoInputs.cache
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).AssemblyInfo.cs
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).csproj.CoreCompileInputs.cache
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).sourcelink.json
