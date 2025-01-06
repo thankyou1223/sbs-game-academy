@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "class51th(문자열입력)/1.0.0": {
+        "runtime": {
+          "class51th(문자열입력).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "class51th(문자열입력)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

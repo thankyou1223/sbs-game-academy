@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class12th(캡슐화)", "cla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class12th (Encapsulation)", "class12th (Encapsulation)\class12th (Encapsulation).csproj", "{413BE7B0-9C43-426A-9D91-7659D748F06D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class51th(문자열입력)", "class51th(문자열입력)\class51th(문자열입력).csproj", "{A5274F4F-7912-4570-B508-D541D85D08D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{413BE7B0-9C43-426A-9D91-7659D748F06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{413BE7B0-9C43-426A-9D91-7659D748F06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{413BE7B0-9C43-426A-9D91-7659D748F06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5274F4F-7912-4570-B508-D541D85D08D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5274F4F-7912-4570-B508-D541D85D08D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5274F4F-7912-4570-B508-D541D85D08D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5274F4F-7912-4570-B508-D541D85D08D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

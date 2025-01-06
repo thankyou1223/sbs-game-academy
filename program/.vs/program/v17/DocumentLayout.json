@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5274F4F-7912-4570-B508-D541D85D08D4}|class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\class51th(\uBB38\uC790\uC5F4\uC785\uB825).csproj|c:\\users\\thank\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5274F4F-7912-4570-B508-D541D85D08D4}|class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\class51th(\uBB38\uC790\uC5F4\uC785\uB825).csproj|solutionrelative:class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{413BE7B0-9C43-426A-9D91-7659D748F06D}|class12th (Encapsulation)\\class12th (Encapsulation).csproj|c:\\users\\thank\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class12th (encapsulation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413BE7B0-9C43-426A-9D91-7659D748F06D}|class12th (Encapsulation)\\class12th (Encapsulation).csproj|solutionrelative:class12th (encapsulation)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -80,18 +84,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class12th (Encapsulation)\\Program.cs",
-              "RelativeDocumentMoniker": "class12th (Encapsulation)\\Program.cs",
-              "ToolTip": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class12th (Encapsulation)\\Program.cs",
-              "RelativeToolTip": "class12th (Encapsulation)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\Program.cs",
+              "RelativeDocumentMoniker": "class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\Program.cs",
+              "ToolTip": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\Program.cs",
+              "RelativeToolTip": "class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:08:09.84Z",
+              "WhenOpened": "2024-12-02T06:04:09.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class12th (Encapsulation)\\Program.cs",
+              "RelativeDocumentMoniker": "class12th (Encapsulation)\\Program.cs",
+              "ToolTip": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class12th (Encapsulation)\\Program.cs",
+              "RelativeToolTip": "class12th (Encapsulation)\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:08:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class12th(\uCEA1\uC290\uD654)\\Program.cs",
               "RelativeDocumentMoniker": "class12th(\uCEA1\uC290\uD654)\\Program.cs",
@@ -99,12 +115,11 @@
               "RelativeToolTip": "class12th(\uCEA1\uC290\uD654)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T04:21:54.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T04:21:54.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Wizard.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class11th(Abstract)\\Wizard.cs",
               "RelativeDocumentMoniker": "class11th(Abstract)\\Wizard.cs",
@@ -112,12 +127,11 @@
               "RelativeToolTip": "class11th(Abstract)\\Wizard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:13:48.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:13:48.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Warrior.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class11th(Abstract)\\Warrior.cs",
               "RelativeDocumentMoniker": "class11th(Abstract)\\Warrior.cs",
@@ -125,12 +139,11 @@
               "RelativeToolTip": "class11th(Abstract)\\Warrior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:13:27.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:13:27.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class11th(Abstract)\\Character.cs",
               "RelativeDocumentMoniker": "class11th(Abstract)\\Character.cs",
@@ -142,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class11th(Abstract)\\Program.cs",
               "RelativeDocumentMoniker": "class11th(Abstract)\\Program.cs",
@@ -150,12 +163,11 @@
               "RelativeToolTip": "class11th(Abstract)\\Program.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAQwGsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:08:03.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:08:03.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class10th(Polymorphism)\\Program.cs",
               "RelativeDocumentMoniker": "class10th(Polymorphism)\\Program.cs",
@@ -163,12 +175,11 @@
               "RelativeToolTip": "class10th(Polymorphism)\\Program.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAAAwBAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T10:09:27.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T10:09:27.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class9th(Inheritance)\\Program.cs",
               "RelativeDocumentMoniker": "class9th(Inheritance)\\Program.cs",
@@ -176,12 +187,11 @@
               "RelativeToolTip": "class9th(Inheritance)\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAYwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:30:13.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T09:30:13.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class8th(Class)\\Program.cs",
               "RelativeDocumentMoniker": "class8th(Class)\\Program.cs",
@@ -189,12 +199,11 @@
               "RelativeToolTip": "class8th(Class)\\Program.cs",
               "ViewState": "AgIAAHEAAAAAAAAAAAAkwKgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:02:29.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T07:02:29.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class7th(Arrangement)\\Program.cs",
               "RelativeDocumentMoniker": "class7th(Arrangement)\\Program.cs",
@@ -206,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class6th(Function)\\Program.cs",
               "RelativeDocumentMoniker": "class6th(Function)\\Program.cs",
@@ -218,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\Class1th(Variable)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class1th(Variable)\\Program.cs",
@@ -226,12 +235,11 @@
               "RelativeToolTip": "..\\Class1th(Variable)\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T04:51:01.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T04:51:01.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Rogue.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class11th(Abstract)\\Rogue.cs",
               "RelativeDocumentMoniker": "class11th(Abstract)\\Rogue.cs",
@@ -243,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class5th(ltration Statement)\\Program.cs",
               "RelativeDocumentMoniker": "class5th(ltration Statement)\\Program.cs",
@@ -255,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\class4th(Conditionsl Statement)\\Program.cs",
               "RelativeDocumentMoniker": "..\\class4th(Conditionsl Statement)\\Program.cs",
@@ -267,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\class3th(Overflow \u0026 Underflow)\\Program.cs",
               "RelativeDocumentMoniker": "..\\class3th(Overflow \u0026 Underflow)\\Program.cs",
@@ -279,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\class2th(Bit)\\Program.cs",
               "RelativeDocumentMoniker": "..\\class2th(Bit)\\Program.cs",

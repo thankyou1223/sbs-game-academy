@@ -1,0 +1,15 @@
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\bin\Debug\net8.0\class51th(문자열입력).exe
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\bin\Debug\net8.0\class51th(문자열입력).deps.json
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\bin\Debug\net8.0\class51th(문자열입력).runtimeconfig.json
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\bin\Debug\net8.0\class51th(문자열입력).dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\bin\Debug\net8.0\class51th(문자열입력).pdb
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\class51th(문자열입력).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\class51th(문자열입력).AssemblyInfoInputs.cache
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\class51th(문자열입력).AssemblyInfo.cs
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\class51th(문자열입력).csproj.CoreCompileInputs.cache
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\class51th(문자열입력).sourcelink.json
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\class51th(문자열입력).dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\refint\class51th(문자열입력).dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\class51th(문자열입력).pdb
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\class51th(문자열입력).genruntimeconfig.cache
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\program\class51th(문자열입력)\obj\Debug\net8.0\ref\class51th(문자열입력).dll

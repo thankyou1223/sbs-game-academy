@@ -3,3 +3,13 @@ C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\De
 C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).AssemblyInfo.cs
 C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).csproj.CoreCompileInputs.cache
 C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).sourcelink.json
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\bin\Debug\net8.0\Class1th(Variable).exe
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\bin\Debug\net8.0\Class1th(Variable).deps.json
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\bin\Debug\net8.0\Class1th(Variable).runtimeconfig.json
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\bin\Debug\net8.0\Class1th(Variable).dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\bin\Debug\net8.0\Class1th(Variable).pdb
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\refint\Class1th(Variable).dll
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).pdb
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\Class1th(Variable).genruntimeconfig.cache
+C:\Users\thank\OneDrive\바탕 화면\sbs-game-academy\Class1th(Variable)\obj\Debug\net8.0\ref\Class1th(Variable).dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("class5th(ltration Statement)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe167c420ee40a068e4fa2e17f60827a1adc0ddb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+838662f0dd97a967852803a262cb255f27cc9e0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("class5th(ltration Statement)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("class5th(ltration Statement)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
