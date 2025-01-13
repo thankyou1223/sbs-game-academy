@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{A5274F4F-7912-4570-B508-D541D85D08D4}|class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\class51th(\uBB38\uC790\uC5F4\uC785\uB825).csproj|c:\\users\\thank\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5274F4F-7912-4570-B508-D541D85D08D4}|class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\class51th(\uBB38\uC790\uC5F4\uC785\uB825).csproj|solutionrelative:class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,6 +70,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D58AB1F-404F-4906-81DF-7CB69436D759}|..\\class2th(Bit)\\class2th(Bit).csproj|c:\\users\\thank\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\class2th(bit)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A1BB1037-8B1E-4B24-BF2F-4A2B917F3CE5}|..\\Class7th(Arrangement)\\Class7th(Arrangement).csproj|c:\\users\\thank\\onedrive\\\uBB38\uC11C\\github\\sbs-game-academy\\class7th(arrangement)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -84,6 +88,7 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\Program.cs",
               "RelativeDocumentMoniker": "class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\Program.cs",
               "ToolTip": "C:\\Users\\thank\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-game-academy\\program\\class51th(\uBB38\uC790\uC5F4\uC785\uB825)\\Program.cs",
@@ -91,6 +96,15 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:04:09.373Z",
+=======
+              "DocumentMoniker": "C:\\Users\\thank\\OneDrive\\\uBB38\uC11C\\GitHub\\sbs-game-academy\\Class7th(Arrangement)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class7th(Arrangement)\\Program.cs",
+              "ToolTip": "C:\\Users\\thank\\OneDrive\\\uBB38\uC11C\\GitHub\\sbs-game-academy\\Class7th(Arrangement)\\Program.cs",
+              "RelativeToolTip": "..\\Class7th(Arrangement)\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAkwI4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:57:58.176Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {

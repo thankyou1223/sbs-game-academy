@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class4th  (Conditional Statement)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe167c420ee40a068e4fa2e17f60827a1adc0ddb")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a4f74f3b9692cb19d0bce2d582e860229e8ee48")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("Class4th  (Conditional Statement)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class4th  (Conditional Statement)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
